@@ -1,4 +1,0 @@
-my first file on git.
-
-this is new file again.
-git  add fle
